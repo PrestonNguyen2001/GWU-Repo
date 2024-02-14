@@ -1,4 +1,5 @@
 .lesson {
+<<<<<<< HEAD
   width: 200px;
   height: 100px;
 }
@@ -19,4 +20,24 @@ color: yellow;
 
 #section-6 {
 color: yellow;
+=======
+    width: 200px;
+    height: 100px;
+  }
+  
+.section-blue {
+
+}
+  
+.container {
+
+}
+
+#section-1 {
+
+}
+
+#section-6 {
+
+>>>>>>> new-branch
 }
